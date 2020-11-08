@@ -1,3 +1,5 @@
+![](graph.png)
+
 <h1>Dashboard</h1>
 <ul>
 <li>Instruction to run<br>
