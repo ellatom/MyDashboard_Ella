@@ -1,8 +1,8 @@
 import React from 'react';
-import ChartWeather from './ChartWeather';
-import Profile from './Profile';
-import BasicTable from './BasicTable';
-import '../CSS/App.css'
+import ChartWeather from './Components/ChartWeather';
+import Profile from './Components/Profile';
+import BasicTable from '././Components/BasicTable';
+import '././CSS/App.css'
 
 
 const App = () => {
