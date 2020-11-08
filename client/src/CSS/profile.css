@@ -1,0 +1,13 @@
+.ui.card{
+    font-family: 'Open Sans', sans-serif;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+
+.ui.card:first-child {
+    margin-top: 7px;
+}
+.meta,.email,.phone,.date,.n_time_point,.n_features,.RCF{
+    font-size: 12px;
+}

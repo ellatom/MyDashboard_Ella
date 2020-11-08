@@ -1,0 +1,21 @@
+body{
+
+  background-color: lightgrey;
+}
+.appContainer
+{
+  font-family:'Open Sans', sans-serif;
+  display:flex;
+  flex-direction: row;
+}
+.profile
+{
+  width: 17%;
+}
+.data
+{
+  display: flex;
+  flex-direction: column;
+  width:800px;
+  margin: 0 auto;
+}

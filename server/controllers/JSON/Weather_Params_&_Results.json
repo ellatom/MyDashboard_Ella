@@ -1,0 +1,14 @@
+{
+    "User_params": {
+        "min_target": "10",
+        "max_target": "15",
+        "n_neighbors": "5"
+    },
+    "Dataset_params": {
+        "n_time_points": "144",
+        "n_features": "10"
+    },
+    "Results": {
+        "RCF": "0.54"
+    }
+}
